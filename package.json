@@ -5,7 +5,7 @@
   "type": "module",
   "description": "SAPI module: 经济系统",
   "license": "ISC",
-  "repository": "git+https://github.com/Tanya7z/sfmc-module-economy.git",
+  "repository": "git+https://github.com/DogeLakeDev/sfmc-module-economy.git",
   "main": "sapi/src/index.ts",
   "exports": {
     ".": "./sapi/src/index.ts"

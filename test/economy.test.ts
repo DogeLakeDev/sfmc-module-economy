@@ -7,7 +7,7 @@ import {
   fromFakePlayerName,
   inferAccountType,
   toFakePlayerName,
-} from "../sapi/src/account-id.ts";
+} from "../sapi/src/account-id.js";
 
 function bucketKey(ts: number, groupBy: "day" | "month"): string {
   const d = new Date(ts);
