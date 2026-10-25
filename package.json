@@ -1,7 +1,7 @@
 {
   "name": "@sfmc-bds/module-economy",
-  "version": "0.2.1",
-  "packageManager": "pnpm@10.8.0",
+  "version": "0.3.0",
+  "packageManager": "pnpm@12.15.0",
   "type": "module",
   "description": "SAPI module: 经济系统",
   "license": "ISC",
@@ -29,16 +29,16 @@
     "@minecraft/server-net": "1.0.0-beta.11940b24",
     "@minecraft/server-ui": "2.3.0-beta.1.26.51-stable",
     "@minecraft/vanilla-data": "1.26.51",
-    "@sfmc-bds/eslint-plugin": "^0.1.1-beta.3",
-    "@sfmc-bds/sdk": "^0.2.0-beta.10",
-    "@types/node": "^22.13.0",
-    "@typescript-eslint/eslint-plugin": "^8.64.0",
-    "@typescript-eslint/parser": "^8.64.0",
-    "eslint": "^10.7.0",
-    "prettier": "^3.9.5",
+    "@sfmc-bds/eslint-plugin": "^0.1.1",
+    "@sfmc-bds/sdk": "^0.2.4",
+    "@types/node": "^22.20.5",
+    "@typescript-eslint/eslint-plugin": "^8.72.0",
+    "@typescript-eslint/parser": "^8.72.0",
+    "eslint": "^10.13.0",
+    "prettier": "^3.9.10",
     "prettier-plugin-organize-imports": "^4.3.0",
-    "tsx": "^4.19.0",
-    "typescript": "^5.6.0"
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
   },
   "peerDependencies": {
     "@sfmc-bds/sdk": ">=0.2.0"

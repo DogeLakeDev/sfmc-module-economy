@@ -67,5 +67,5 @@
     ],
     "requires": []
   },
-  "notes": "计分板 sfmc_money 为唯一权威余额；accounts/transactions 仅作审计留档；无 dailyTasks / 白皮书。"
+  "notes": "以计分板 sfmc_money为数据源，数据库 accounts/transactions 作留档"
 }
